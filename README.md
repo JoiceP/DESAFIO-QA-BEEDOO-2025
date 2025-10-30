@@ -23,7 +23,7 @@ O objetivo deste desafio foi identificar falhas, inconsistências e oportunidade
 Os bugs foram registrados em uma **planilha de rastreabilidade**, categorizados como Funcionais, Validação ou UX/UI, com prioridade e descrição detalhada, para garantir fácil entendimento e acompanhamento da equipe de desenvolvimento.
 
 
-- 🌐 **Ambiente de testes:** [Beedoo QA Tests](https://creative-sherbet-a51eac.netlify.app/new-course](https://creative-sherbet-a51eac.netlify.app/)  
+- 🌐 **Ambiente de testes:** [Beedoo QA Tests](https://creative-sherbet-a51eac.netlify.app/) 
 - 🧩 **Funcionalidade testada:** Cadastro, listagem e exclusão de cursos, além da análise de possíveis melhorias.
    
 - 📊 **Planilha de testes e evidências:** [Google Sheets – Casos de Teste](https://docs.google.com/spreadsheets/d/1p4P6JoU_KfYsAUmQN_Yh2jZ-jXsutaq_a8usZl_6sq0/edit?gid=0#gid=0)  
