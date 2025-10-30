@@ -5,7 +5,7 @@
 ## 📌 User Story – Módulo de Cadastro de Curso
 
 
-Como usuário do sistema Beedoo, quero cadastrar, visualizar e excluir cursos, para gerenciar minha lista de cursos de forma prática e organizada.
+Como usuário do sistema Beedoo QA Tests, quero cadastrar, visualizar e excluir cursos, para gerenciar minha lista de cursos de forma prática e organizada.
 
 **Decisões tomadas para criação da User Story:**
 1. O foco principal foi testar o fluxo essencial do sistema: cadastro, listagem e exclusão de cursos.  
