@@ -23,7 +23,7 @@ O objetivo deste desafio foi identificar falhas, inconsistências e oportunidade
 Os bugs foram registrados em uma **planilha de rastreabilidade**, categorizados como Funcionais, Validação ou UX/UI, com prioridade e descrição detalhada, para garantir fácil entendimento e acompanhamento da equipe de desenvolvimento.
 
 
-- 🌐 **Ambiente de testes:** [Beedoo QA Tests](https://creative-sherbet-a51eac.netlify.app/new-course)  
+- 🌐 **Ambiente de testes:** [Beedoo QA Tests]([https://creative-sherbet-a51eac.netlify.app/new-course](https://creative-sherbet-a51eac.netlify.app/))  
 - 🧩 **Funcionalidade testada:** Cadastro, listagem e exclusão de cursos, além da análise de possíveis melhorias.
    
 - 📊 **Planilha de testes e evidências:** [Google Sheets – Casos de Teste](https://docs.google.com/spreadsheets/d/1p4P6JoU_KfYsAUmQN_Yh2jZ-jXsutaq_a8usZl_6sq0/edit?gid=0#gid=0)  
@@ -122,7 +122,7 @@ Para a execução deste desafio, foram utilizadas **duas metodologias complement
 | Tipo | Ferramenta / Local | Descrição | Link |
 |------|-------------------|-----------|------|
 | Planilha de Casos de Teste | Google Sheets | Todos os cenários de teste detalhados, passo a passo e resultados | [Abrir Planilha](https://docs.google.com/spreadsheets/d/1p4P6JoU_KfYsAUmQN_Yh2jZ-jXsutaq_a8usZl_6sq0/edit?gid=0#gid=0) |
-| Evidências em Vídeo | Google Drive | Vídeos MP4 mostrando execução dos testes e bugs encontrados | [Abrir Drive](INSERIR_LINK_REAL_DO_VIDEO) |
+| Evidências em Vídeo | Google Drive | Vídeos MP4 mostrando execução dos testes e bugs encontrados | [Abrir Drive](https://docs.google.com/videos/d/1pTh3RsM8OSasUQZcugDpZAXW51I4kIoJCwOX_NmWXqw/edit?scene=id.g3394bba2_0_1#scene=id.g3394bba2_0_1) |
 | Análise de Melhorias | Google Slides | Sugestões de UX/UI e validações para otimizar o módulo | [Abrir Apresentação](https://docs.google.com/presentation/d/1rXzXwUOrSjRwcPsXm0lXF0YBmyfPYWDphsa67rep4sk/edit?slide=id.g39e52667058_2_76#slide=id.g39e52667058_2_76) |
 
 ---
@@ -138,4 +138,12 @@ Ao final do ciclo de testes, espera-se:
 ---
 
 **🧠 Conclusão:**  
-O módulo de cursos apresenta boa estrutura geral, porém requer ajustes em validações, mensagens de feedback e layout responsivo para garantir consistência, usabilidade e robustez no fluxo de cadastro.
+O módulo de cursos apresenta boa estrutura e funcionalidade no geral, porém requer ajustes em validações, mensagens de feedback e layout responsivo para garantir consistência, usabilidade e robustez no fluxo de cadastro.
+
+**📌 Contato e Networking**
+
+Se quiser entrar em contato, conhecer outros projetos ou trocar ideias:
+
+[LinkedIn] (https://www.linkedin.com/in/joice-paiva96/)
+
+[E-mail] joicepaiva96@gmail.com
